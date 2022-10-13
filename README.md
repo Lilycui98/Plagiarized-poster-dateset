@@ -8,7 +8,7 @@ Our website is still in development and may occasionally be unstable or have a w
 
 Modern Poster Dataset
 -
-We use labelme to annotate the specific object, including ancient architecture, carp, crane, deer, loong, lotus, mountain, person, and tiger. Please ONLY use it for academic research.![example images](http://47.108.200.68/img/example.108af6d9.png)
+We use labelme to annotate the specific object, including ancient architecture, carp, crane, deer, loong, lotus, mountain, person, and tiger. Please ONLY use it for academic research.
 
 
 Copyright Statement
