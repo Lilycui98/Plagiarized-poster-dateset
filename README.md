@@ -2,7 +2,7 @@
 
 It is the first plagiarized artwork dataset created by the DIDAlab of Hunan University. It was published in the paper ["Understanding and Identifying Artwork Plagiarism with the Wisdom of Designers: A Case Study on Poster Artwork"](https://dl.acm.org/doi/10.1145/3503161.3548433) in MM22'. All images are collected on the website. Please ONLY use it for academic research.
 
-Please check the [official website of DIDAlab](www.pangu.didalab.cn) to download the full dataset.
+Please check the [official website of DIDAlab](https://pangu.didalab.cn/) to download the full dataset.
 Our website is still in development and may occasionally be unstable or have a weak website capacity. :blush:
 
 
